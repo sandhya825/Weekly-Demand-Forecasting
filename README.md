@@ -22,7 +22,7 @@ Data Files
 transactions.csv: Order-level transaction records.
 order_items_shopease.csv: Product-level quantities per order.
 products_shopease.csv: Product metadata.
-# Tech Stack
+Tech Stack
 DuckDB: For in-notebook, exceptionally fast, and production-style SQL analytics.
 Jupyter Notebook (Weekly_Demand_Forecasting.ipynb): For reproducibility, documentation, and step-by-step validation.
 SQL-First Approach: Chosen to emphasize correctness, transparency, and business logic over premature model complexity.
@@ -32,7 +32,7 @@ The analysis follows a structured, decision-oriented workflow:
 Identify Top-10 Products by total units sold to focus on the highest business impact and reduce noise.
 Aggregate Data from transactional level to weekly demand per product.
 Generate a Continuous Calendar and zero-fill missing weeks to correctly manage sparse data.
-# Implement Baseline Forecasts:
+Implement Baseline Forecasts:
 Naive Forecast: Next week's demand equals last week's demand.
 Rolling 3-Week Average: Smooths short-term volatility by taking the mean of the past 3 weeks.
 Evaluate Forecast Accuracy using Mean Absolute Error (MAE).
@@ -57,8 +57,13 @@ Future Improvements: This current approach assumes demand is relatively stable w
 
 # 🚀 How to Run
 Ensure you have Python installed.
+
 Install the necessary dependencies:
+
 pip install duckdb jupyter
+
 Launch Jupyter Notebook:
+
 jupyter notebook
+
 Open Weekly_Demand_Forecasting.ipynb and run all cells sequentially to reproduce the SQL tables and MAE evaluations.
