@@ -1,0 +1,85 @@
+product_id,product_name,category,sub_category,brand,cost_price
+PROD_1,Wireless Headphones SoundMax,Electronics,Audio,SoundMax,392
+PROD_2,Wireless Headphones AudioPro,Electronics,Audio,AudioPro,1770
+PROD_3,Wireless Headphones BassKing,Electronics,Audio,BassKing,699
+PROD_4,Bluetooth Speaker SoundMax,Electronics,Audio,SoundMax,1825
+PROD_5,Bluetooth Speaker AudioPro,Electronics,Audio,AudioPro,2019
+PROD_6,Bluetooth Speaker BassKing,Electronics,Audio,BassKing,1478
+PROD_7,Earbuds SoundMax,Electronics,Audio,SoundMax,608
+PROD_8,Earbuds AudioPro,Electronics,Audio,AudioPro,1690
+PROD_9,Earbuds BassKing,Electronics,Audio,BassKing,1814
+PROD_10,Smartphone TechBrand,Electronics,Mobile,TechBrand,184
+PROD_11,Smartphone PhonePlus,Electronics,Mobile,PhonePlus,607
+PROD_12,Smartphone MobileX,Electronics,Mobile,MobileX,468
+PROD_13,Phone Case TechBrand,Electronics,Mobile,TechBrand,1865
+PROD_14,Phone Case PhonePlus,Electronics,Mobile,PhonePlus,1243
+PROD_15,Phone Case MobileX,Electronics,Mobile,MobileX,731
+PROD_16,Screen Guard TechBrand,Electronics,Mobile,TechBrand,1802
+PROD_17,Screen Guard PhonePlus,Electronics,Mobile,PhonePlus,1124
+PROD_18,Screen Guard MobileX,Electronics,Mobile,MobileX,2085
+PROD_19,T-Shirt StyleHub,Fashion,Clothing,StyleHub,603
+PROD_20,T-Shirt FashionX,Fashion,Clothing,FashionX,307
+PROD_21,T-Shirt TrendyWear,Fashion,Clothing,TrendyWear,671
+PROD_22,Jeans StyleHub,Fashion,Clothing,StyleHub,413
+PROD_23,Jeans FashionX,Fashion,Clothing,FashionX,1171
+PROD_24,Jeans TrendyWear,Fashion,Clothing,TrendyWear,1942
+PROD_25,Shirt StyleHub,Fashion,Clothing,StyleHub,1750
+PROD_26,Shirt FashionX,Fashion,Clothing,FashionX,450
+PROD_27,Shirt TrendyWear,Fashion,Clothing,TrendyWear,1307
+PROD_28,Dress StyleHub,Fashion,Clothing,StyleHub,1523
+PROD_29,Dress FashionX,Fashion,Clothing,FashionX,1473
+PROD_30,Dress TrendyWear,Fashion,Clothing,TrendyWear,565
+PROD_31,Running Shoes ActiveFit,Fashion,Footwear,ActiveFit,1752
+PROD_32,Running Shoes ShoeMart,Fashion,Footwear,ShoeMart,1722
+PROD_33,Running Shoes WalkEasy,Fashion,Footwear,WalkEasy,801
+PROD_34,Casual Shoes ActiveFit,Fashion,Footwear,ActiveFit,299
+PROD_35,Casual Shoes ShoeMart,Fashion,Footwear,ShoeMart,611
+PROD_36,Casual Shoes WalkEasy,Fashion,Footwear,WalkEasy,340
+PROD_37,Sneakers ActiveFit,Fashion,Footwear,ActiveFit,2018
+PROD_38,Sneakers ShoeMart,Fashion,Footwear,ShoeMart,579
+PROD_39,Sneakers WalkEasy,Fashion,Footwear,WalkEasy,1988
+PROD_40,Pressure Cooker KitchenPro,Home & Kitchen,Cookware,KitchenPro,1879
+PROD_41,Pressure Cooker CookWell,Home & Kitchen,Cookware,CookWell,1425
+PROD_42,Pressure Cooker HomeChef,Home & Kitchen,Cookware,HomeChef,354
+PROD_43,Frying Pan KitchenPro,Home & Kitchen,Cookware,KitchenPro,1115
+PROD_44,Frying Pan CookWell,Home & Kitchen,Cookware,CookWell,1623
+PROD_45,Frying Pan HomeChef,Home & Kitchen,Cookware,HomeChef,1155
+PROD_46,Kadai KitchenPro,Home & Kitchen,Cookware,KitchenPro,1942
+PROD_47,Kadai CookWell,Home & Kitchen,Cookware,CookWell,632
+PROD_48,Kadai HomeChef,Home & Kitchen,Cookware,HomeChef,1504
+PROD_49,Water Bottle EcoLife,Home & Kitchen,Drinkware,EcoLife,333
+PROD_50,Water Bottle DrinkSmart,Home & Kitchen,Drinkware,DrinkSmart,1251
+PROD_51,Water Bottle HydroMax,Home & Kitchen,Drinkware,HydroMax,1121
+PROD_52,Coffee Mug EcoLife,Home & Kitchen,Drinkware,EcoLife,193
+PROD_53,Coffee Mug DrinkSmart,Home & Kitchen,Drinkware,DrinkSmart,108
+PROD_54,Coffee Mug HydroMax,Home & Kitchen,Drinkware,HydroMax,2067
+PROD_55,Thermos EcoLife,Home & Kitchen,Drinkware,EcoLife,1964
+PROD_56,Thermos DrinkSmart,Home & Kitchen,Drinkware,DrinkSmart,848
+PROD_57,Thermos HydroMax,Home & Kitchen,Drinkware,HydroMax,184
+PROD_58,Face Cream GlowUp,Beauty,Skincare,GlowUp,1648
+PROD_59,Face Cream BeautyFirst,Beauty,Skincare,BeautyFirst,166
+PROD_60,Face Cream SkinCare,Beauty,Skincare,SkinCare,1780
+PROD_61,Face Wash GlowUp,Beauty,Skincare,GlowUp,1859
+PROD_62,Face Wash BeautyFirst,Beauty,Skincare,BeautyFirst,1778
+PROD_63,Face Wash SkinCare,Beauty,Skincare,SkinCare,856
+PROD_64,Serum GlowUp,Beauty,Skincare,GlowUp,906
+PROD_65,Serum BeautyFirst,Beauty,Skincare,BeautyFirst,311
+PROD_66,Serum SkinCare,Beauty,Skincare,SkinCare,261
+PROD_67,Novel ReadWell,Books,Fiction,ReadWell,1207
+PROD_68,Novel BookHub,Books,Fiction,BookHub,617
+PROD_69,Novel PageTurner,Books,Fiction,PageTurner,725
+PROD_70,Story Book ReadWell,Books,Fiction,ReadWell,1159
+PROD_71,Story Book BookHub,Books,Fiction,BookHub,1769
+PROD_72,Story Book PageTurner,Books,Fiction,PageTurner,1202
+PROD_73,Comics ReadWell,Books,Fiction,ReadWell,666
+PROD_74,Comics BookHub,Books,Fiction,BookHub,391
+PROD_75,Comics PageTurner,Books,Fiction,PageTurner,207
+PROD_76,Yoga Mat FitLife,Sports,Fitness,FitLife,215
+PROD_77,Yoga Mat GymPro,Sports,Fitness,GymPro,1139
+PROD_78,Yoga Mat ActiveGear,Sports,Fitness,ActiveGear,365
+PROD_79,Dumbbell Set FitLife,Sports,Fitness,FitLife,1738
+PROD_80,Dumbbell Set GymPro,Sports,Fitness,GymPro,679
+PROD_81,Dumbbell Set ActiveGear,Sports,Fitness,ActiveGear,879
+PROD_82,Resistance Band FitLife,Sports,Fitness,FitLife,1800
+PROD_83,Resistance Band GymPro,Sports,Fitness,GymPro,1067
+PROD_84,Resistance Band ActiveGear,Sports,Fitness,ActiveGear,2053
